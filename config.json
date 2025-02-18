@@ -1,6 +1,6 @@
 {
     "concept_sets": {
-        "version": "v1.0.1",
+        "version": "v1.0.3",
         "omop": {
             "vocabulary_id": "",
             "vocabulary_name": "",
