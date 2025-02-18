@@ -1,0 +1,12 @@
+{
+    "concept_sets": {
+        "version": "v1.0.1",
+        "omop": {
+            "vocabulary_id": "",
+            "vocabulary_name": "",
+            "vocabulary_reference": ""
+        },
+        "concept_set": []
+    },
+    "codes": []
+}
